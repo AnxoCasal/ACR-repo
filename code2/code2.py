@@ -1,0 +1,1 @@
+print("Boas, sou o code_2")
